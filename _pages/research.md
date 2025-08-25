@@ -8,7 +8,7 @@ author_profile: true
 
 plasma instabilities and turbulence in astrophysics
 ===========
-
+Plasma instabilities and turbulence in astrophysics hold great significance in field amplification and cosmic particle acceleration.
 
 laser-plasma interactions
 ==========
