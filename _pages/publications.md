@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-
+paper list
 ======
 * Peng Liu, Dong Wu, Dawei Yuan, Gang Zhao, Zhengmao Sheng, Xiantu He, and Jie Zhang, [Ion energization in perpendicular collisionless shock driven by laboratory-scale colliding plasmas](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013267), Physical Review Research 6, 013323 (2025).
 
