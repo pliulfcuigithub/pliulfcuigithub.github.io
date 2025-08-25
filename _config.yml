@@ -9,34 +9,34 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hongxuan Zhu"
+title                    : "Peng Liu"
 title_separator          : "-"
-name                     : &name "Hongxuan Zhu"
-description              : &description "Assistant Professor at Zhejiang University"
-url                      : https://hzhu2020.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Peng Liu"
+description              : &description "Postdoc at Institute of Theoretical Physics"
+url                      : https://pliulfcuigithub.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hzhu2020/hzhu2020.github.io"
+repository               : "pliulfcuigithub/pliulfcuigithub.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_1440.JPG"
-  name             : "Hongxuan Zhu"
+  avatar           : "pliu.jpg"
+  name             : "Peng Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Theoretical and computational plasma physicist at Zhejiang University"
-  location         : "8 Hainayuan Bldg #550"
+  bio              : "Theoretical and computational plasma researcher at Institute of Theoretical Physics, Chinese Academy of Sciences"
+  location         : "Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing"
   employer         : # "Zhejiang University"
   uri              : # URL
-  email            : "hongxuan@zju.edu.cn" 
+  email            : "pengliu@zuaa.zju.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=OyPnMo0AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=lDU18aIAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0001-9844-6972"
+  orcid            : "https://orcid.org/0000-0001-7898-6568"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "hzhu2020"
+  github           : "pliulfcuigithub"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
