@@ -11,11 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Astrophysical Sciences (Plasma Physics), Princeton University, 2020
-* B.S. in Physics, Peking University, 2015
+* Ph.D in School of Physics, Zhejiang University, 2025
+* M.S. in Institute of Modern Physics, Fudan University, 2020
+* B.S. in Shanxi Normal University, 2017
   
 Employment
 ======
-* June 2025 -: Tenure-track Assistant Professor, School of Physics, Zhejiang University
-* Sept 2023 - June 2025: Associate Research Scholar, Department of Astrophysical Sciences, Princeton University
-* Sept 2020 - Sept 2023: Associate Research Physicist, Princeton Plasma Physics Laboratory
+* April 2025 - : Postdoctoral Researcher at Institute of Theoretical Physics, Chinese Academy of Sciences.
