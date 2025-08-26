@@ -6,10 +6,8 @@ author_profile: true
 
 {% include base_path %}
 
-Invited talks
-======
+[//]: <> Invited talks and seminars
+[//]: <> ======
 
 
-Research talks and seminars
-======
 
