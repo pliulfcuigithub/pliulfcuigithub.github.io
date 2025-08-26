@@ -18,8 +18,9 @@ Research interests
 
 I primarily work in the cross-disciplinary domain of plasma astrophysics, integrating diverse areas of plasma physics, high-energy astrophysics, and high-energy density physics. I am engaged in the theories and numerical simulations of laser-plasma particle sources. Currently, my main research interests focus on plasma instabilities and turbulence associated with astrophysics.
 
-I acknowledge support from:
+---
+**I acknowledge support from**:
 <p align='left'>
 <img src='/images/zju.jpg' width='100'>
-<img src='/images/ITP.jpg' width='103'>
+<img src='/images/ITP.jpg' width='104'>
 </p>
