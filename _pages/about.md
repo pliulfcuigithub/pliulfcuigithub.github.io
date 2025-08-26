@@ -21,5 +21,5 @@ I primarily work in the cross-disciplinary domain of plasma astrophysics, integr
 I acknowledge support from:
 <p align='left'>
 <img src='/images/zju.jpg' width='110'>
-<img src='/images/ITP.jpg' width='90'>
+<img src='/images/ITP.jpg' width='98'>
 </p>
