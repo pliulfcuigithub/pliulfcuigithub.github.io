@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /talks/
+permalink: /Presentation/
 author_profile: true
 ---
 
