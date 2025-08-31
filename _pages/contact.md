@@ -8,7 +8,7 @@ author_profile: true
 
 Thank you for your interest in contacting me.
 
-<center> **E-mail:** </center>
+<center> <font color="blue">E-mail:</font> </center>
 
 <center> pengliu@zuaa.zju.edu.cn </center> 
 
@@ -16,6 +16,6 @@ Thank you for your interest in contacting me.
 
 <center>  South Building #6303 </center> 
 
-<center> Institute of Theoretical Physics, Chinese Academy of Sciences </center>center> 
+<center> Institute of Theoretical Physics, Chinese Academy of Sciences </center>
 
 <center> Beijing, China </center> 
