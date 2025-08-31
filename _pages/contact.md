@@ -12,10 +12,14 @@ Thank you for your interest in contacting me.
 
 <center> pengliu@zuaa.zju.edu.cn </center> 
 
-<center> **Address:**</center> 
+&nbsp;
+
+<center> <font color="blue"> Address: </font> </center> 
 
 <center>  South Building #6303 </center> 
 
-<center> Institute of Theoretical Physics, Chinese Academy of Sciences </center>
+<center> Institute of Theoretical Physics </center> 
+
+<center>  Chinese Academy of Sciences </center>
 
 <center> Beijing, China </center> 
