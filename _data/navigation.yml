@@ -19,16 +19,16 @@ main:
     url: /publications/
 
   - title: "Presentations" # Peng
-    url: /presentations/    
+    url: /presentations/
+    
+  - title: "Contact" # Peng
+    url: /contact/
 
   #- title: "Teaching"
   #  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
     
   # - title: "CV"
   #   url: /cv-json/
