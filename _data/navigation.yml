@@ -24,6 +24,9 @@ main:
   - title: "Contact" # Peng
     url: /contact/
 
+  - title: "Conferences" # Peng
+    url: /conf/
+
   #- title: "Teaching"
   #  url: /teaching/    
     
