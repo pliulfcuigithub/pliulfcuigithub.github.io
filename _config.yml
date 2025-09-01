@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Peng Liu"
+title                    : "Peng Liu' Homepage"
 title_separator          : "-"
 name                     : &name "Peng Liu"
 description              : &description "Postdoc at Institute of Theoretical Physics"
