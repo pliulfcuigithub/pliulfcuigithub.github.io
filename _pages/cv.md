@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in School of Physics, Zhejiang University, 2025
-* M.S. in Institute of Modern Physics, Fudan University, 2020
-* B.S. in School of Physics and Information Engineering, Shanxi Normal University, 2017
+* Ph.D. in Physics, School of Physics, Zhejiang University, 2025
+* M.S. in Physics, Institute of Modern Physics, Fudan University, 2020
+* B.S. in Physics, School of Physics and Information Engineering, Shanxi Normal University, 2017
   
 Employment
 ======
