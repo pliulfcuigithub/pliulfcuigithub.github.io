@@ -20,10 +20,4 @@ Thank you for your interest in contacting me.
 
 <center>  Chinese Academy of Sciences </center>
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">Map of recent and upcoming talks and research visits!</a></p>
-
-{% endif %}
-
 <center> Beijing, China </center> 
