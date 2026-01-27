@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ## Invited talks:
--  [Weibel turbulence and Magnetized Shock in Colliding Plasmas under Laboratory Conditions](https://files.sciconf.cn/public/1514/40206/202509/20250911225504_94976.pdf), CPS Fall Meeting, September 11-14th, 2025, Harbin Engineering University, Harbin.
+-  [Weibel-type turbulence and Magnetized Shock in Colliding Plasmas under Laboratory Conditions](https://files.sciconf.cn/public/1514/40206/202509/20250911225504_94976.pdf), CPS Fall Meeting, September 11-14th, 2025, Harbin Engineering University, Harbin.
 -  [Electromagnetic turbulence and collisionless shock in laboratory-scale counter-streaming plasmas](https://mp.weixin.qq.com/s/AyrBO3rXZWiWCkCwInvSfA), Plasma Astro Seminar 5, April 24th, 2024, Tsung-Dao Lee Institute, Shanghai.
 
   
