@@ -17,8 +17,9 @@ Laser-plasma high-quality particle sources
 ==========
 With the improvement of laser intensity, the shortening of pulse duration and the progress of target fabrication technology in recent years, the studies on laser-driven ion acceleration are coming into our vision, and several new schemes for ion acceleration, such as break-out afterburner (BOA) and radiation pressure acceleration (RPA), have emerged. The scheme of RPA based on the interaction between ultraintense laser and ultrathin solid target has attracted a great deal of attention. However, the ultrathin foil employed in the RPA scheme is very susceptible to the transverse instabilities (such as Rayleigh-Taylor-like instability), which leads to deterioration of beam quality. It, therefore, becomes an urgent problem to be solved at present. In my research, we are focused on achieving stable long-range RPA and improving the beam quality of accelerated particles.
 
-**These research programs acknowledge support from ZJU and ITP**.
+**These research programs acknowledge support from FDU, ZJU, and ITP**.
 <p align='left'>
+<img src='/images/fdu.svg' width='100'>
 <img src='/images/zju.svg' width='100'>
 <img src='/images/itp.svg' width='100'>
 </p>
