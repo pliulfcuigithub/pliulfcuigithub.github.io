@@ -19,6 +19,6 @@ With the improvement of laser intensity, the shortening of pulse duration and th
 
 **These research programs acknowledge support from ZJU and ITP**.
 <p align='left'>
-<img src='/images/zju.jpg' width='100'>
+<img src='/images/zju.svg' width='100'>
 <img src='/images/Itp.emf' width='104'>
 </p>
