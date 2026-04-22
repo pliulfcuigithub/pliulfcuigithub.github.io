@@ -16,7 +16,7 @@ Welcome to my research website, I am a Postdoc at [Institute of Theoretical Phys
 Research interests
 =====
 
-I primarily work in the cross-disciplinary domain of plasma astrophysics, integrating diverse areas of plasma physics, high-energy astrophysics, and high-energy density physics. I am engaged in the theories and numerical simulations of laser-plasma particle sources and . Currently, my main research interests focus on plasma instabilities and turbulence associated with astrophysics. For a detailed description of my **research activities**, please follow this [link](https://pliulfcuigithub.github.io/research/). If you would like to learn more about my **research productions**, feel free to browse through my [publications](https://pliulfcuigithub.github.io/publications/).
+I primarily work in the cross-disciplinary domain of plasma astrophysics, integrating diverse areas of plasma physics, high-energy astrophysics, and high-energy density physics. I am engaged in the theories and numerical simulations of laser-plasma particle sources, incuuding electron, ion, and neutron sources. Currently, my main research interests focus on plasma instabilities and turbulence associated with astrophysics. For a detailed description of my **research activities**, please follow this [link](https://pliulfcuigithub.github.io/research/). If you would like to learn more about my **research productions**, feel free to browse through my [publications](https://pliulfcuigithub.github.io/publications/).
 
 ---
 **Key Words**:
